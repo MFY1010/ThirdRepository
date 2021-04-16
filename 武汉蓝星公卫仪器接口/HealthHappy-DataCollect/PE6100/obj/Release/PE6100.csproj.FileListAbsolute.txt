@@ -1,0 +1,10 @@
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\Start\instrument\PE6100.dll
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.csprojAssemblyReference.cache
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.csproj.CoreCompileInputs.cache
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.csproj.CopyComplete
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.dll
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\Start\instrument\PE6100.dll
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.csprojAssemblyReference.cache
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.csproj.CoreCompileInputs.cache
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.csproj.CopyComplete
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\PE6100\obj\Release\PE6100.dll

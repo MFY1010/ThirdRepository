@@ -1,0 +1,76 @@
+2021/3/26 10:05:25  System.BadImageFormatException: 未能加载文件或程序集“BW300.dll”或它的某一个依赖项。 不是有效的 Win32 应用程序。 (异常来自 HRESULT:0x800700C1)
+文件名:“BW300.dll”
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 195
+
+
+2021/3/26 10:05:26  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:05:28  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:05:31  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:05:32  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:05:33  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:05:58  System.BadImageFormatException: 未能加载文件或程序集“BW300.dll”或它的某一个依赖项。 不是有效的 Win32 应用程序。 (异常来自 HRESULT:0x800700C1)
+文件名:“BW300.dll”
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 195
+
+
+2021/3/26 10:05:59  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:03  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:03  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:05  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:17  System.BadImageFormatException: 未能加载文件或程序集“BW300.dll”或它的某一个依赖项。 不是有效的 Win32 应用程序。 (异常来自 HRESULT:0x800700C1)
+文件名:“BW300.dll”
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 195
+
+
+2021/3/26 10:06:19  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:20  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:22  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:46  System.BadImageFormatException: 未能加载文件或程序集“BW300.dll”或它的某一个依赖项。 不是有效的 Win32 应用程序。 (异常来自 HRESULT:0x800700C1)
+文件名:“BW300.dll”
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 195
+
+
+2021/3/26 10:06:50  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:06:51  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:07:14  System.BadImageFormatException: 未能加载文件或程序集“BW300.dll”或它的某一个依赖项。 不是有效的 Win32 应用程序。 (异常来自 HRESULT:0x800700C1)
+文件名:“BW300.dll”
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 195
+
+
+2021/3/26 10:09:15  System.BadImageFormatException: 未能加载文件或程序集“BW300.dll”或它的某一个依赖项。 不是有效的 Win32 应用程序。 (异常来自 HRESULT:0x800700C1)
+文件名:“BW300.dll”
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 195
+
+
+2021/3/26 10:09:19  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:09:20  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228
+2021/3/26 10:09:20  System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 HealthHappy_DataCollect.From.Frm_main.TiemrData(Object state) 位置 E:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 228

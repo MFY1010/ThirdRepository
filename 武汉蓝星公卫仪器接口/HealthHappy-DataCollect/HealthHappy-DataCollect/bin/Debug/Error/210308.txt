@@ -1,0 +1,8 @@
+2021/3/8 16:43:54  System.IO.FileNotFoundException: 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 175
+2021/3/8 16:44:07  System.IO.FileNotFoundException: 系统找不到指定的文件。 (异常来自 HRESULT:0x80070002)
+   在 System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   在 System.Reflection.Assembly.LoadFile(String path)
+   在 HealthHappy_DataCollect.From.Frm_main.InitIOC() 位置 F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\HealthHappy-DataCollect\From\Frm_main.cs:行号 175

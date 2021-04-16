@@ -1,0 +1,9 @@
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\bin\Release\AppCore.dll
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\bin\Release\AppCore.pdb
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\obj\Release\AppCore.csproj.CoreCompileInputs.cache
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\obj\Release\AppCore.dll
+F:\项目\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\Start\AppCore.dll
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\Start\AppCore.dll
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\obj\Release\AppCore.csproj.CoreCompileInputs.cache
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\obj\Release\AppCore.csproj.CopyComplete
+F:\项目\武汉蓝星公卫体检\武汉蓝星公卫仪器接口\HealthHappy-DataCollect\AppCore\obj\Release\AppCore.dll
